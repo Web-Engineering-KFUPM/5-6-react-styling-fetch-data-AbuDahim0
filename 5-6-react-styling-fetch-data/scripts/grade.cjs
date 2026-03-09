@@ -15,7 +15,7 @@
  *   - On/before deadline => 20/20
  *   - After deadline     => 10/20
  *
- * Deadline: 4 Mar 2026 20:59 (Asia/Riyadh, UTC+03:00)
+ * Deadline: 9 Mar 2026 20:59 (Asia/Riyadh, UTC+03:00)
  *
  * Repo layout (per your screenshot):
  * - repo root contains .github/workflows
