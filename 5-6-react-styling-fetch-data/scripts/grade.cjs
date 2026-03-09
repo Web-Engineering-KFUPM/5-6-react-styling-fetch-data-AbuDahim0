@@ -40,7 +40,7 @@ fs.mkdirSync(FEEDBACK_DIR, { recursive: true });
    Deadline (Asia/Riyadh)
    4 Mar 2026, 20:59
 -------------------------------- */
-const DEADLINE_RIYADH_ISO = "2026-03-04T20:59:00+03:00";
+const DEADLINE_RIYADH_ISO = "2026-03-05T20:59:00+03:00";
 const DEADLINE_MS = Date.parse(DEADLINE_RIYADH_ISO);
 
 // Submission marks policy
